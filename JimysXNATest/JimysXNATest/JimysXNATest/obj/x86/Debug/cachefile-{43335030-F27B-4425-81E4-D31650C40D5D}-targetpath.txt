@@ -1,0 +1,12 @@
+Content\back.xnb
+Content\backwalk1.xnb
+Content\backwalk2.xnb
+Content\front.xnb
+Content\frontwalk1.xnb
+Content\frontwalk2.xnb
+Content\left.xnb
+Content\leftwalk1.xnb
+Content\leftwalk2.xnb
+Content\right.xnb
+Content\rightwalk1.xnb
+Content\rightwalk2.xnb

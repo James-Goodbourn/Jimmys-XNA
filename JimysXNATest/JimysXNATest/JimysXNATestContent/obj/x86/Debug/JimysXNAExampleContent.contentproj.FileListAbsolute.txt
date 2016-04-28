@@ -1,0 +1,2 @@
+C:\Users\James\Documents\Visual Studio 2012\Projects\TestEntities\TestEntities\TestEntitiesContent\obj\x86\Debug\JimysXNAExampleContent.contentprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATestContent\obj\x86\Debug\JimysXNAExampleContent.contentprojResolveAssemblyReference.cache

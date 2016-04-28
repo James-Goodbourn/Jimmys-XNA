@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2015-06-27T10:04:42.7123478+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backwalk1.png</Source>
+      <Name>backwalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\backwalk1.xnb</Output>
+      <Time>2015-06-27T10:04:42.7279752+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backwalk2.png</Source>
+      <Name>backwalk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\backwalk2.xnb</Output>
+      <Time>2015-06-27T10:04:42.7436051+01:00</Time>
+    </Item>
+    <Item>
+      <Source>front.png</Source>
+      <Name>front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\front.xnb</Output>
+      <Time>2015-06-27T10:04:42.7592267+01:00</Time>
+    </Item>
+    <Item>
+      <Source>frontwalk1.png</Source>
+      <Name>frontwalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\frontwalk1.xnb</Output>
+      <Time>2015-06-27T10:04:42.774856+01:00</Time>
+    </Item>
+    <Item>
+      <Source>frontwalk2.png</Source>
+      <Name>frontwalk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\frontwalk2.xnb</Output>
+      <Time>2015-06-27T10:04:42.774856+01:00</Time>
+    </Item>
+    <Item>
+      <Source>left.png</Source>
+      <Name>left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\left.xnb</Output>
+      <Time>2015-06-27T10:04:42.7904808+01:00</Time>
+    </Item>
+    <Item>
+      <Source>leftwalk1.png</Source>
+      <Name>leftwalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\leftwalk1.xnb</Output>
+      <Time>2015-06-27T10:04:42.8061088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>leftwalk2.png</Source>
+      <Name>leftwalk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\leftwalk2.xnb</Output>
+      <Time>2015-06-27T10:04:42.8061088+01:00</Time>
+    </Item>
+    <Item>
+      <Source>right.png</Source>
+      <Name>right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\right.xnb</Output>
+      <Time>2015-06-27T10:04:42.8217324+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rightwalk1.png</Source>
+      <Name>rightwalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\rightwalk1.xnb</Output>
+      <Time>2015-06-27T10:04:42.8373584+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rightwalk2.png</Source>
+      <Name>rightwalk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\rightwalk2.xnb</Output>
+      <Time>2015-06-27T10:04:42.8529871+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{43335030-F27B-4425-81E4-D31650C40D5D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\James\Documents\Visual Studio 2012\Projects\JimysXNATest\JimysXNATest\JimysXNATest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-06-21T18:42:36.8300872+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
